@@ -1,0 +1,4 @@
+Para utilizar la Base de datos no hay mas que importar el fichero "practica_adsi.sql" a MYSQL
+
+Es necesario tambien añadir un usuario "adsi" cuyo password es "adsi" y que tenga todos los permisos 
+sobre la base da datos practica_adsi, ya que es el que usa el programa para conectarse a la BD.

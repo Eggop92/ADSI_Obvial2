@@ -1,0 +1,31 @@
+¿Cuál fue el primer producto de Sony?;C;Una tostadora de pan;Una consola de videojuegos;Un hervidor de arroz;Un televisor
+¿Cuántos atardeceres ven cada día los astronautas de la Estación Espacial Internacional?;C;7;24;15;4
+¿Quién es el verdadero patrón de Pamplona?;C;San Fermín;San Pitopato;San Saturnino;San Blas
+¿Cómo alimentan las hembras de ornitorrinco a sus crías?;B;Amamantándolas;Sudando leche;Triturando sus alimentos;Enseñándoles a cazar desde que nacen
+¿Cuántos tipos de jirafa distintos existen?;A;1;2;3;4
+¿Dónde te encuentras si te dicen que estas en el fin del mundo?;C;Antártida;Australia;Argentina;España
+¿Donde creían los antiguos romanos que acababa la tierra?;D;En Sicilia;En Lisboa;En Oporto;En A Coruña
+¿Por qué otro nombre es conocido la ciudad de Ilion?;C;Rodas;Esparta;Troya;Atenas
+¿Cuál de estos dioses de la mitología griega no es hijo de Cronos el titán?;D;Zeus;Hades;Poseidón;Ares
+¿Qué mitología plagiaron los antiguos romanos?;A;La griega;La egipcia;La celta;La gala
+¿Cuál de los siguientes no era un Dios griego?;B;Hera;Perseo;Helios;Apolo
+¿A quién se mataba en el coliseo romano?;C;A los griegos;A los rehenes;A los cristianos;A los gobernantes
+¿Cuántas carabelas acompañaban a Colon cuando descubrió América?;C;1;2;3;4
+¿Qué movimiento de los 70 encontró en el festival de Woodstock su mayor lugar de esparcimiento?;C;Indie;Gothic;Hippie;Punk
+¿Dónde se realizó el ataque que hizo que EEUU participase activamente en la Segunda Guerra Mundial?;C;New York;Los Ángeles;Pearl Harbor;San Francisco
+¿Qué famoso barco se hundió en su viaje inaugural?;B;Olympic;Titanic;Queen Mary;Costa Concordia
+¿Cuánto ha durado el vuelo más largo de una gallina?;A;13 segundos;30 segundos;50 segundos;2 minutos
+¿Cómo duermen los delfines?;C;De costado;Con los ojos abiertos;Con un ojo abierto;Con la boca abierta
+¿Cuál de los siguientes animales no puede saltar?;B;La jirafa;El elefante;El búfalo;El ornitorrinco
+¿Cuál es el mayor fabricante de neumáticos del mundo?;D;Pirelli;Bridgestone;Michelin;Lego
+¿Cuál de los siguientes es más eficiente para mantener a la gente despierta?;C;El cafe;La pera;La manzana;La mandarina
+¿A qué saben los escarabajos?;D;A piñones;A bacon frito;A pollo;A manzana
+¿Cuántas narices tienen las babosas?;D;1;2;3;4
+¿Cuál fue el color de la primera Coca-Cola?;C;Negro;Azul;Verde;Rojo
+¿Dónde se creó la montaña rusa?;C;En Rusia;En Inglaterra;En EEUU;En China
+¿Quién creó la pasta?;A;Los chinos;Los italianos;Los rusos;Los tailandeses
+¿Cuánto puede llegar a medir un turbante?;B;30 metros;45 metros;100 metros;90 metros
+¿Cómo se llaman las crías de la mula?;D;Muletas;Mulillas;Mulitas;No tiene crías
+¿Cuántas pirámides hay en Egipto?;D;1;10;100;10000
+¿Cuál de los siguientes tiene cuatro rodillas?;C;El león;El caballo;El elefante;La oveja
+¿Cuál fue la primera ave domesticada?;B;La gallina;La oca;El pato;El pingüino

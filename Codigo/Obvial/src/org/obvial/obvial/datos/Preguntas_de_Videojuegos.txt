@@ -1,0 +1,18 @@
+¿Con qué tipo de animal se relacionan los nombre de los personajes de la saga Assassin's Creed?;C;Mamíferos;Moluscos;Aves;Anfibios
+¿De dónde es el protagonista de Assassin's Creed 2?;B;Roma;Florencia;Venecia;Milán
+¿De dónde es el protagonista de God of War?;A;Esparta;Atenas;Rodas;Troya
+¿Cómo se llama el protagonista de God of War?;C;Perseo;Teseo;Kratos;Aquiles
+¿Qué animal es el protagonista de Sonic?;C;Leopardo;Hormiga;Erizo;Pájaro
+¿Cuál es la profesión de Mario?;D;Albañil;Electricista;Mecánico;Fontanero
+¿En qué juego de peleas aparece Jin Kazama?;B;Street Fighter;Tekken;Mortal Kombat;Dead or Alive
+¿Cuál de los cuatro jinetes del apocalipsis aparece en la primera edición de Darksiders?;C;Victoria;Hambre;Guerra;Muerte
+¿Cómo se llama el protagonista de Metal Gear Solid?;B;Leon;Snake;Wesker;Raiden
+¿Cómo se llama el hermano de Mario?;C;Andrea;Filipe;Luigi;Rafael
+¿Cómo se llama el protagonista de The Legend of Zelda?;D;Zelda;Peach;Hyrule;Link
+¿Qué Pokemon aparecía en la portada de la edición amarilla?;C;Charizard;Blastoise;Pikachu;Venusaur
+¿Cuántas medallas había que conseguir para entrar en la Liga Pokemon?;C;2;4;8;16
+¿Cuántos Pokemon aparecían en la primera edición del juego?;B;150;151;250;252
+¿En qué juego el personaje tiene un diamante encima de la cabeza?;C;Los Sams;Los Sems;Los Sims;Los Soms
+En el arcade original de Donkey Kong, Mario o Jumpman era un...;A;Carpintero;Fontanero;Panadero;Cocinero
+Originalmente, la protagonista de la saga Tomb Raider iba a llamarse...;D;Leira Croft;Lara Croft;Lera Cruz;Laura Cruz
+La máxima puntuación que se puede conseguir en un juego de Pac-Man es;B;4.465.333;3.333.360;9.999.999;Ilimitada

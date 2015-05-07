@@ -1,0 +1,16 @@
+Proyecto Obvial 2.0.
+
+Proyecto para la asignatura de Análisis y diseño de sistemas de información del grado en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Lenguajes:
+Java
+MySQL
+
+Autores:
+Endika Avellaneda
+David Espino
+Jon Ander Fontan
+Aaron Ojembarrena
+Helen J. Paz
+Egoitz Puerta
+Sara Santiso

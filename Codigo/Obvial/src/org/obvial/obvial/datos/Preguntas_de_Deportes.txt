@@ -1,0 +1,27 @@
+¿Quién es el máximo anotador de la historia de la NBA?;D;Magic Johnson;Karl Malone;Michael Jordan;Kareem Abdul-Jabbar
+¿Quién es el hombre que más anillos de la NBA gano como jugador?;B;Michael Jordan;Bill Russell;Shaquille O´Neal;Wilt Chamberlain
+¿Quién es el máximo goleador de la historia de la Liga Española de Futbol?;D;Leo Messi;Raúl González;Pichichi;Telmo Zarra
+¿Qué equipo consiguió la mayor goleada de la Liga Española de Futbol al ganar 12-1 al F.C.Barcelona?;B;Real Madrid;Athletic Club;Valencia C.F.;R.C. Deportivo de la Coruña
+¿Qué piloto de Fórmula 1 ha ganado más títulos?;B;Lewis Hamilton;Michael Schumacher;Ayrton Senna;Alain Prost
+¿Qué jugador de la NBA es conocido con el sobrenombre de Superman?;C;Kobe Bryant;Pau Gasol;Dwight Howard;Kevin Garnett
+¿Qué equipo de futbol ha ganado más títulos de la UEFA Champions League?;D;A.C. Milán;F.C. Barcelona;Liverpool F.C.;Real Madrid
+¿Qué premio se llevó Pau Gasol tras su primer año en la NBA?;C;MVP de la temporada;Jugador más sexy del oeste;Rookie del año;MVP de las finales
+¿Quién fue el primer jugador español en aterrizar en la NBA?;D;Pau Gasol;Juan Carlos Navarro;Raúl López;Fernando Martín
+¿Cuál de estos jugadores no ha conseguido ningún título de la NBA?;C;Kobe Bryant;Dirk Nowitzki;Steve Nash;Dwyane Wade
+¿Quién es el actual número 3 del mundo en el ranking de la ATP (tenis)?;A;Roger Federer;Rafael Nadal;Novak Djokovic;Andy Murray
+¿Quién marcó el gol que le dio a España su pase a la final en el mundial de 2010?;B;Gerard Pique;Carles Puyol;Fernando Llorente;Andrés Iniesta
+¿Qué selección entrenaba Marcelo Bielsa en el mundial de 2010?;D;Argentina;Brasil;Paraguay;Chile
+¿Cuántos campeonatos intercontinentales se han celebrado en Sudáfrica?;B;1;2;3;4
+¿De qué color era la primera camiseta del Athletic Club?;C;Roja y blanca;Azul;Negra;Verde
+¿En qué equipo de futbol americano milita Tom Brady?;C;New York Jets;Minnesota Vikings;New England Patriots;Dallas Cowboys
+¿Qué deporte practicó Michael Jordan tras su primera retirada del baloncesto profesional?;C;Golf;Fútbol Americano;Baseball;Volley-Ball
+¿Quién ostenta el récord de los cien metros lisos?;C;Asafa Powell;Tayson Gay;Usain Bolt;Michael Phelps
+¿Cuántas medallas de oro ganó Michael Phelps en los Juegos Olímpicos de Pekín?;D;1;2;4;8
+¿Cuál es el récord de Usain Bolt en los cien metros lisos?;C;9,40 segundos;9,48 segundos;9,58 segundos;9,60 segundos
+¿Cuántos pilotos españoles hay en la Formula 1?;B;1;2;3;4
+¿Cuántos pilotos españoles hay en Moto GP?;C;2;4;6;8
+¿Cuántos pilotos españoles hay en Moto 2?;D;6;7;8;9
+¿Cuántos pilotos españoles hay en Moto 3?;C;6;7;8;9
+¿Cuántas carreras ha ganado Valentino Rossi?;D;50;75;87;105
+¿Cuántas carreras ha ganado Michael Schumacher?;C;61;73;91;93
+¿Cuántas campeonatos del mundo ganó Angel Nieto?;C;9;11;13;15

@@ -1,0 +1,41 @@
+¿Cuál es el primer deseo de Aladdin?;D;Ser un sultán;Ser el genio más poderoso del mundo;Que Jasmín se enamore de él;Convertirse en príncipe
+¿En qué película aparece la manzana envenenada?;C;Rapuncel;Tiana y el Sapo;Blancanieves;Cenicienta
+¿Cómo muere la madre de Bambi?;D;Come veneno;Pisa una trampa de osos;Muere por la edad;Le disparan unos cazadores
+¿Dónde muere Mufasa?;D;A manos de su hermano Scar en el Manantial;En el cementerio de elefantes;No muere;En una estampida
+¿Qué son las estrellas según Timón?;B;Baba de elefante;Luciérnagas pegadas a aquel techo de arriba;Gusanos estampados contra el techo de ahí arriba;Diamantes enormes y que flotan en aquel techo de ahí arriba
+¿Cuál NO es una película de Walt Disney?;A;Anastasia;El jorobado de Notre Dame;Mulán;Dumbo
+¿Por qué tiene que bailar Timón?;C;Para ganar dinero;Matar a Scar;Para distraer a las hienas;Porque se aburren
+¿En qué transforma el genio de la lámpara de Aladdin a Abu?;C;En león;En mosquito;En elefante;En jirafa
+¿Qué coche aparece en Regreso al Futuro?;B;Aston Martin;Delorean;Volkswagen;Chevrolet
+¿Qué actor interpreta el papel de Frodo?;C;Dominic Monaghan;Sean Astin;Elijah Wood;Billy Boyd
+¿Qué actor interpreta al hijo de Forrest Gump?;A;Haley Joel Osment;Macaulay Culkin;Neil Patrick Harris;Jaleel White
+¿Qué actores protagonizan Pulp Fiction?;C;Samuel L. Jackson y Nicholas Cage;Denzel Washington y Bruce Willis;Samuel L. Jackson y John Travolta;Morgan Freeman y Brad Pitt
+¿Cómo se llama la princesa de Shrek?;D;Fiable;Segura;Ingenua;Fiona
+¿Quién NO trabaja en Matrix?;C;Keanu Reeves;Lawrence Fishburne;Angelina Jolie;Hugo Weaving
+¿Cuál de los siguientes NO ha aparecido en la nueva saga de Batman?;A;Harley Quinn;Joker;Espantapajaros;Catwoman
+¿Quién es el villano de Van Helsing?;C;Van Helsing;Mr Hyde;Dracula;Hombre Lobo
+¿Con quién jugaban los Looney Tunes en Space Jam?;D;Charles Barkley;Larry Bird;Magic Johnson;Michael Jordan
+¿Quién interpreta a Jason Bourne?;B;Brad Pitt;Matt Damon;George Clooney;Mark Wahlberg
+¿Quién entrena a Hércules?;C;Zeus;Hades;Philoctetes;Ares
+¿Quien interpreta a Joker en El Caballero Oscuro?;B;Jack Nicholson;Heath Ledger;Christian Bale;Michael Kane
+¿Qué actor NO trabaja en la saga Piratas del Caribe?;A;Natalie Portman;Orlando Bloom;Johnny Deep;Keira Knightley
+¿Quién interpreta a Padme Amidala?;D;Angelina Jolie;Jennifer Aniston;Keira Knightley;Natalie Portman
+¿Qué actor NO trabaja en Los Mercenarios 2?;B;Chuck Norris;Mickey Rourke;Jean Claude Van Damme;Bruce Willis
+¿Qué actor NO interpreta a uno de los tres mosqueteros en El Hombre De La Máscara De Hierro?;B;John Malkovich;Gabriel Byrne;Jeremy Irons;Gerard Depardieu
+¿Cuál era el nombre de la orca a la que había que liberar?;A;Willy;Flipper;Snorky;Diana
+¿En cuál de las siguientes películas el protagonista lucha contra las termitas?;C;Ants;Bichos;Antz;Bichoz
+¿Qué usaron como sustituto de la sangre en la escena de la ducha de psicosis?;D;Coca-Cola;Pintura;Laca;Chocolate
+¿Quién iba a interpretar a Yoda en un principio?;A;Una mano;Frank Ozz;Denny O'Brain;Gordon Fleming
+¿En qué película Leonardo Dicaprio exploraba el mundo de los sueños?;B;La Playa;Origen;Shutter Island;Infiltrados
+¿Quién fue el director de Avatar?;D;Francis-Ford Coppola;Mel Gibson;Woody Allen;James Cameron
+¿Cuál de los siguientes superhéroes NO aparece en Los Vengadores?;C;Thor;Capitán América;Lobezno;Hulk
+¿En cuál de las siguientes películas de Tim Burton no actúa Jhonny Depp?;C;Alicia en el País de las Maravillas;La novia cadáver;Pesadilla antes de navidad;Eduardo manostijeras
+¿Quién hace un cameo en X-Men: Primera Generación?;C;Brad Pitt;Leonardo DiCaprio;Hugh Jackman;Matt Damon
+¿Qué actriz da caza a los vampiros en la saga Underworld?;B;Hayley Atwell;Milla Jovovich;Kate Beckinsale;Scarlett Johansson
+¿Cuál de los siguientes no aparece en alguna película de Aladdin?;C;Sebastián;Pocahontas;Simba;Goofy
+¿Cómo se llama el perro de juguete de Toy Story?;C;Snorky;Snooky;Slinky;Slonky
+¿Cómo se llama la grúa de Cars?;B;Bandeja;Mate;Brillo;Gancho
+¿Quién interpreta a Dios en 'Como Dios'?;B;Denzel Washington;Morgan Freeman;Clint Eastwood;Jack Nicholson
+Termina el título de la película 'Algo pasa con...;C;Sally;Molly;Mary;Lily
+¿Cómo se llama la tribu nativa de Pandora en Avatar?;C;Ca'ni;Va'ni;Na'vi;Vi'na
+¿Qué actor va en busca de un Twinkie en Zombieland?;A;Woody Harrelson;Jesse Eisenberg;Bill Murray;Andrew Garfield
